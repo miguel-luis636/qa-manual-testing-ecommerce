@@ -2,7 +2,6 @@
 
 > Gerado em: 21/07/2026
 > 
-> Repositório: https://github.com/miguel-luis636/qa.testes.manuais.renner.projeto.real
 
 ---
 
