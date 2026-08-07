@@ -48,7 +48,7 @@ Este projeto **não contempla**:
 - Testes de carga ou performance
 - Testes de segurança (Pentest)
 - Automação de testes
-- APIs ou sistemas internos da Renner
+- APIs ou sistemas internos da empresa
 
 > A decisão de manter o projeto 100% manual (sem automação ou testes de carga) é intencional: o site é um ambiente de produção real de terceiros, e testes automatizados/carga exigiriam autorização explícita da empresa, o que está fora do escopo de um projeto de portfólio.
 
@@ -196,4 +196,21 @@ Quality Assurance (QA) Júnior
 
 ---
 
-> 🔎 **Nota:** o e-commerce testado neste projeto é o site da Renner (www.renner.com.br).
+> 🔎 **Nota final**
+>
+> O e-commerce testado neste projeto é o site da **Renner** (www.renner.com.br).
+>
+> Este repositório foi criado **exclusivamente com fins educacionais e de portfólio profissional**, como parte do processo de aprendizado e desenvolvimento prático de um QA júnior. Nenhuma parte deste projeto tem finalidade comercial: o autor **não obtém, e não busca obter, nenhum tipo de ganho financeiro** com esta documentação — seja por meio de venda, monetização, publicidade ou qualquer outra forma de retorno econômico.
+>
+> A escolha de um site real e público como objeto de estudo tem um propósito específico: simular, da forma mais realista possível, o dia a dia de um profissional de QA atuando sobre um produto de e-commerce em produção — algo que ambientes fictícios ou simulados nem sempre conseguem reproduzir com a mesma fidelidade. Testar um sistema real expõe o testador a nuances, comportamentos inesperados e casos de borda que dificilmente apareceriam em um cenário artificial, tornando o aprendizado mais completo e próximo da realidade do mercado.
+>
+> Todos os bugs e melhorias identificados durante a execução dos testes foram documentados com o mesmo rigor técnico que se espera em um ambiente profissional — não com o intuito de expor falhas ou prejudicar a imagem da marca, mas como um exercício genuíno de análise crítica e boas práticas de QA. Caso qualquer um dos achados aqui documentados seja, de alguma forma, útil para a equipe responsável pelo site identificar pontos de melhoria em sua plataforma, esse será um efeito colateral bem-vindo — mas em nenhum momento o objetivo principal do projeto, que permanece sendo o aprendizado e a construção de portfólio do autor.
+>
+> Reforça-se que:
+> - Nenhuma vulnerabilidade de segurança foi explorada ou buscada intencionalmente;
+> - Nenhum dado real de terceiros foi utilizado — todos os dados de teste (nomes, e-mails, CPFs, senhas, endereços) são fictícios;
+> - Nenhuma compra foi finalizada e nenhuma transação financeira real foi realizada;
+> - Este projeto não possui qualquer vínculo oficial, contratual ou institucional com a empresa proprietária do site testado;
+> - Caso a empresa ou seus representantes tenham qualquer objeção quanto à existência deste material, o autor está aberto a rever, ajustar ou remover o conteúdo conforme solicitado.
+>
+> Em resumo: este é um projeto de estudo, feito por um profissional em início de carreira buscando demonstrar suas habilidades técnicas de forma ética e responsável — sem qualquer intenção comercial, maliciosa ou de exposição negativa da marca envolvida.
